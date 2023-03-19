@@ -33,7 +33,8 @@
             <li>👨‍💻 <b>Hire me for Back-End Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680">Link to my UpWork Back-End Development Specialization</a>.</li>
         </ul>
     </div>
-   ## By the way here are some of my statistics 🚀
+
+ ## By the way here are some of my statistics 🚀
 
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=tamjeedhur&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
