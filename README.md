@@ -2,10 +2,17 @@
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Tamjeed+Hur+%F0%9F%91%8B;Computer+Engineer;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>
-    <div align=center>
-        <a href="https://www.linkedin.com/in/tamjeed-hur-25342b124/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://www.upwork.com/freelancers/~01e7277c25c4bf30bb"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
-    </div>
+  
+<h3 align="center">Reach me</h3>
+
+<p align="center">
+  <a  href="https://t.me/example" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
+  </a>
+  <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
+  </a>
+</p>
     <div align=left>
         <br>
         <p>
