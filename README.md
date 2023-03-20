@@ -8,8 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tamjeed-hur-25342b124/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://www.upwork.com/freelancers/~01e7277c25c4bf30bb"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
-    <a href="https://www.linkedin.com/in/tamjeed-hur-25342b124/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://www.upwork.com/freelancers/~01e7277c25c4bf30bb"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
 </p>
     <div align=left>
         <br>
