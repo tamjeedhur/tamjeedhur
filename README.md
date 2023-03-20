@@ -96,7 +96,7 @@
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
     
-    
+     ## By the way here are some of my statistics 🚀
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" alt="mystreak"/>
 
 
