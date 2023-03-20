@@ -96,6 +96,10 @@
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
     
+    
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" alt="mystreak"/>
+
+
  ## By the way here are some of my statistics 🚀
 
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=tamjeedhur&show_icons=true&theme=tokyonight)
