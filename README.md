@@ -20,7 +20,7 @@
             </strong>
         </p>
         <ul>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1PGIkDl02kumWz8JEeVSMwsVHPa3IhAkd/view?usp=sharing">LINK TO MY RESUME</a>.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1dTTL3ipQUoVbwHqGNJ6NPxn5zGpefcT-/view?usp=sharing">LINK TO MY RESUME</a>.</li>
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/tamjeedhur/tamjeedhur/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Helping people(📷).</li>
